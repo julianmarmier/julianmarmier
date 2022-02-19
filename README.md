@@ -1,5 +1,4 @@
-Self-taught web designer, amateur graphic designer, etc.
-**Learning student** above all.
+Self-taught web designer, amateur graphic designer, etc. \n **Learning student** above all.
 
 <!--
 **julianmarmier/julianmarmier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
